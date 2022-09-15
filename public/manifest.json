@@ -1,0 +1,15 @@
+{
+  "short_name": "React App",
+  "name": "Making World a better place",
+  "icons": [
+    {
+      "src": "svce.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
